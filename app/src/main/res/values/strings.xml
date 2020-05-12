@@ -1,0 +1,128 @@
+<resources>
+
+    <!--Headers titles-->
+
+    <string name="app_name">Menedżer zakupów i wydatków</string>
+    <string name="title_products">Produkty</string>
+    <string name="title_statistics">Statystyki</string>
+    <string name="title_shopping_list">Aktualna lista zakupów</string>
+    <string name="title_create_list">Stwórz listę zakupów</string>
+    <string name="title_home">Ekran główny</string>
+
+    <!--Buttons names-->
+
+    <string name="createList">Stwórz listę zakupów</string>
+    <string name="generateList">Generuj listę zakupów</string>
+    <string name="products">Zarzadzaj listą produktów</string>
+    <string name="statistics">Pokaż statystyki</string>
+    <string name="actual">Aktualna lista zakupów</string>
+
+    <string name="delete">Usuń produkt</string>
+    <string name="save">Zapisz</string>
+    <string name="add_p">Dodaj produkt</string>
+    <string name="add">Dodaj</string>
+    <string name="close">Zamknij</string>
+
+    <!--hint values-->
+
+    <string name="prod_name">wprowadź nazwę produktu</string>
+    <string name="shop_name">wprowadż nazwę sklepu</string>
+    <string name="price">wprowadź cenę</string>
+    <string name="days_left">na ile dni wystarczy</string>
+    <string name="enter_name">Podaj nazwę produktu</string>
+
+    <!--String arrays-->
+
+    <string-array name="titles">
+        <item>Ekran główny</item>
+        <item>Produkty</item>
+        <item>Statystyki</item>
+        <item>Aktualna lista zakupów</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Artykuły spożywcze</item>
+        <item>Chemia gospodarcza</item>
+        <item>Kosmetyki</item>
+        <item>Dla dzieci</item>
+        <item>Dla zwierząt</item>
+        <item>Inne</item>
+    </string-array>
+
+    <string-array name="filter">
+        <item>Wszystkie</item>
+        <item>Artykuły spożywcze</item>
+        <item>Chemia gospodarcza</item>
+        <item>Kosmetyki</item>
+        <item>Dla dzieci</item>
+        <item>Dla zwierząt</item>
+        <item>Inne</item>
+    </string-array>
+
+    <string-array name="timePer">
+        <item>tydzień</item>
+        <item>miesiąc</item>
+        <item>kwartał</item>
+        <item>rok</item>
+    </string-array>
+
+    <string-array name="units">
+        <item>szt</item>
+        <item>kg</item>
+        <item>dag</item>
+        <item>g</item>
+    </string-array>
+
+    <string-array name="timePeriod">
+        <item>Wszystkie dane</item>
+        <item>Ostatni tydzień</item>
+        <item>Ostatni miesiąc</item>
+        <item>Ostatni kwartał</item>
+        <item>Ostatni rok</item>
+    </string-array>
+
+    <!--TextViews and others-->
+
+    <string name="plan">Planuj</string>
+    <string name="buy">Kupuj</string>
+    <string name="manage">Zarządzaj</string>
+    <string name="info2">Aktualna lista zakupów jest pusta. Stwórz lub wygeneruj nową.</string>
+    <string name="timePer">Wydatki w ciągu ostatniego </string>
+    <string name="inCateg">W kategorii</string>
+    <string name="all_expenses">Wydatki w ciągu całego okresu korzystania z aplikacji</string>
+    <string name="info_about_shop_name">Nazwa sklepu zostanie przypisana do produktów zakupionych po jej wpisaniu.</string>
+    <string name="info">Info</string>
+    <string name="info_generate_statistics">Wybierz odpowiednie opcje i wygeneruj statystyki</string>
+    <string name="info_clicked_product">Kliknij produkt, aby dodać go do listy</string>
+    <string name="info_all_history">Cała dostępna historia</string>
+    <string name="info_click_to_buy">Kliknij w produkt, aby dodać go do zakupionych produktów</string>
+    <string name="info_swipe_to_delete">Przesuń w lewo, aby usunąć go z listy</string>
+    <string name="info_click_to_edit">Kliknij produkt, aby edytować</string>
+    <string name="general_statistics_for_all_data">Statystyki wygenerowane na podstawie wszystkich zapisanych danych</string>
+
+    <string name="end_shopping">Zakończ zakupy</string>
+    <string name="enter_shop_name">wprowadź nazwę sklepu</string>
+    <string name="create_list">Stwórz listę</string>
+    <string name="add_prod">Dodaj produkt</string>
+    <string name="select_category">Wybierz kategorię:</string>
+    <string name="time_period">Okres czasu</string>
+    <string name="time_interval">Przedział czasowy</string>
+    <string name="enter_start_date">Wybierz datę początkową</string>
+    <string name="enter_end_date">Wybierz datę końcową</string>
+    <string name="select_time_per">Wybierz okres czasu</string>
+    <string name="select_time_interval">Wybierz przedział czasowy</string>
+    <string name="show_statistics">Pokaż statystyki</string>
+    <string name="summary">Łącznie</string>
+    <string name="select_unit">Wybierz jednostkę</string>
+    <string name="enter_quantity">wprowadź ilość</string>
+    <string name="select_product">Wybierz produkt</string>
+    <string name="filtered_by_category">Filtruj według kategorii</string>
+    <string name="prods_list">Lista produktów</string>
+    <string name="shopping_list">Lista zakupów</string>
+    <string name="last_7_days">Ostatnie 7 dni</string>
+    <string name="last_month">Ostatni miesiąc</string>
+    <string name="last_three_months">Ostatnie 3 miesiące</string>
+    <string name="last_year">Ostatni rok</string>
+    <string name="powered_by">Powered by</string>
+
+</resources>
